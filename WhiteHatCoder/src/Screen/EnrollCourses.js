@@ -662,9 +662,6 @@ const courses = [
       {/* HEADER SECTION */}
       <View style={styles.headerWrapper}>
         <View style={styles.topRow}>
-          {/* <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
-            <Image source={require('../assets/left.png')} style={styles.iconSm} />
-          </TouchableOpacity> */}
           <Text style={styles.mainTitle}>Discover</Text>
           <View style={{ width: 40 }} />
         </View>
