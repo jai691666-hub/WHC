@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712128394210",
+    "project_id": "whitehat-coder",
+    "storage_bucket": "whitehat-coder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712128394210:android:bdbd612ddfbc795a457fbb",
+        "android_client_info": {
+          "package_name": "com.whitehatcoder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1zvAhSgMFuy7w04-G3dzzSnK0FgazA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
